@@ -5,4 +5,4 @@ an API for B.ai chat rooms
 $python3 BaiAPI.py
 ```
 ## TODO:
-![] proxy for api.openai.com
+- proxy for api.openai.com
