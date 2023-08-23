@@ -1,4 +1,4 @@
-# Bai-reverse-API
+# Bai unofficial API
 an API for B.ai chat rooms
 ## How to use?
 ```
